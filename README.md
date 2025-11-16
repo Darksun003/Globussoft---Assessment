@@ -1,9 +1,8 @@
 📘 Assessment Project – Task 1 & Task 2
-Author: GV Jayanth
-
-This repository contains two complete data/ML engineering tasks:
-Task 1 – Amazon Laptop Web Scraper
-Task 2 – Face Verification API using Deep Learning (InsightFace)
+👨‍💻 Author: GV Jayanth
+This repository contains two complete Data & Machine Learning Engineering tasks:
+🔹 Task 1 – Amazon Laptop Web Scraper
+🔹 Task 2 – Face Authentication (FastAPI + facenet-pytorch / InsightFace)
 
 ----------------------------------------------
 🧩 Task 1 – Amazon Laptop Web Scraper
