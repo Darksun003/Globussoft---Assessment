@@ -1,0 +1,67 @@
+scrape_timestamp,ASIN,Title,Product_URL,Image,Price,Rating,Reviews_Count,Seller_Snippet,Result_Type
+2025-11-15T11:26:47.726081,B0DZDDQ429,,,https://m.media-amazon.com/images/I/71pKJ+Mjd8L._AC_UY218_.jpg,93900,4.6,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:26:47.733497,B0FG2RJ9NC,,,https://m.media-amazon.com/images/I/7156bBh8W2L._AC_UY218_.jpg,40990,3.8,,"FREE delivery Mon, 17 Nov",Ad
+2025-11-15T11:26:47.739841,B0F5B1N9SJ,,,https://m.media-amazon.com/images/I/71dyfY6G0aL._AC_UY218_.jpg,64990,3.9,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.745749,B0CJ2KWNNQ,,,https://m.media-amazon.com/images/I/618zAXbM4uL._AC_UY218_.jpg,66490,3.8,,Save extra with No Cost EMI Save extra with No Cost EMI,Organic
+2025-11-15T11:26:47.751511,B0FVK43HNK,,,https://m.media-amazon.com/images/I/712-6ezZiPL._AC_UY218_.jpg,51411,5.0,,"FREE delivery Tue, 18 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.758111,B0FDBLR2HT,,,https://m.media-amazon.com/images/I/712cUkgrVnL._AC_UY218_.jpg,32490,4.6,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.764121,B0DZDDQ429,,,https://m.media-amazon.com/images/I/71pKJ+Mjd8L._AC_UY218_.jpg,93900,4.6,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.771695,B0D5DFR78J,,,https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY218_.jpg,65990,4.1,,Save extra with No Cost EMI Save extra with No Cost EMI,Organic
+2025-11-15T11:26:47.777138,B0FVKZYH6L,,,https://m.media-amazon.com/images/I/71CZUpFopWL._AC_UY218_.jpg,48490,5.0,,"FREE delivery Tue, 18 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.783547,B0F4R6H3NB,,,https://m.media-amazon.com/images/I/71Z4mSII9BL._AC_UY218_.jpg,52490,3.8,,"FREE delivery Tue, 18 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.790730,B0DSFQZTVW,,,https://m.media-amazon.com/images/I/710ChwsODKL._AC_UY218_.jpg,59990,3.9,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:26:47.798677,B0F637DPFW,,,https://m.media-amazon.com/images/I/71Q6JmLZE7L._AC_UY218_.jpg,55990,4.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:26:47.804251,B0D7PSTHRD,,,https://m.media-amazon.com/images/I/61Y8j1QN5YL._AC_UY218_.jpg,22990,3.4,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.809689,B0CWTYGPH8,,,https://m.media-amazon.com/images/I/513p8BwV-RL._AC_UY218_.jpg,29890,3.9,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.814986,B0FKB8G6ZT,,,https://m.media-amazon.com/images/I/61tIAw23VeL._AC_UY218_.jpg,84990,,,"FREE delivery Wed, 19 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.820657,B0CL7CMTXS,,,https://m.media-amazon.com/images/I/61AccNkmFFL._AC_UY218_.jpg,26990,4.1,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.826355,B0CM6GVR56,,,https://m.media-amazon.com/images/I/710Natr3OFL._AC_UY218_.jpg,29990,4.0,,"FREE delivery Sun, 23 Nov",Organic
+2025-11-15T11:26:47.832549,B0DSL4R3DL,,,https://m.media-amazon.com/images/I/61XOR7fpbVL._AC_UY218_.jpg,73490,4.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.839209,B0CGVLLWT3,,,https://m.media-amazon.com/images/I/61zWFTCfWeL._AC_UY218_.jpg,12990,3.2,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.844946,B0DG5CY2Y2,,,https://m.media-amazon.com/images/I/61Kfqt-h5-L._AC_UY218_.jpg,28990,4.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:26:47.851792,B0D2Y1BLDT,,,https://m.media-amazon.com/images/I/712WiT-wexL._AC_UY218_.jpg,55990,3.7,,Save extra with No Cost EMI Save extra with No Cost EMI,Ad
+2025-11-15T11:26:47.857738,B0FWDBH2T2,,,https://m.media-amazon.com/images/I/615tKndaduL._AC_UY218_.jpg,202990,5.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:27:07.187934,B0DSFQZTVW,,,https://m.media-amazon.com/images/I/710ChwsODKL._AC_UY218_.jpg,59990,3.9,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:27:07.202441,B0DZDDV7GC,,,https://m.media-amazon.com/images/I/71CjP9jmqZL._AC_UY218_.jpg,92900,4.6,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:27:07.212879,B0D7PSYS6B,,,https://m.media-amazon.com/images/I/61Y8j1QN5YL._AC_UY218_.jpg,21990,3.4,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.223920,B0FDL57MKD,,,https://m.media-amazon.com/images/I/71JI131B9SL._AC_UY218_.jpg,54990,3.5,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.235106,B0D3HG5CMG,,,https://m.media-amazon.com/images/I/61SHFVKs+AL._AC_UY218_.jpg,30700,4.0,,"FREE delivery Wed, 19 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.245786,B0F2TMZJ24,,,https://m.media-amazon.com/images/I/61QY1NrWQBL._AC_UY218_.jpg,14990,3.8,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.256195,B0FDLB7BQZ,,,https://m.media-amazon.com/images/I/713cu-sW3TL._AC_UY218_.jpg,14990,4.5,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.268294,B0CHRNQBCR,,,https://m.media-amazon.com/images/I/81LbQEPiFnL._AC_UY218_.jpg,19999,2.8,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.279568,B0FNRHPKVL,,,https://m.media-amazon.com/images/I/61CSymKO2QL._AC_UY218_.jpg,19990,3.5,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.289506,B0CJBL2QWY,,,https://m.media-amazon.com/images/I/71+gQ9gOTuL._AC_UY218_.jpg,32990,4.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.297690,B0D2Y1BLDT,,,https://m.media-amazon.com/images/I/712WiT-wexL._AC_UY218_.jpg,55990,3.7,,Save extra with No Cost EMI Save extra with No Cost EMI,Ad
+2025-11-15T11:27:07.308310,B0FCY7BTCX,,,https://m.media-amazon.com/images/I/71D9HSayVSL._AC_UY218_.jpg,62390,4.3,,"FREE delivery Mon, 17 Nov",Ad
+2025-11-15T11:27:07.317322,B0FH71SN5N,,,https://m.media-amazon.com/images/I/81leoJuYYaL._AC_UY218_.jpg,47400,4.2,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.330110,B0DTYF29BG,,,https://m.media-amazon.com/images/I/71EwQWH7UvL._AC_UY218_.jpg,34750,3.9,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.340066,B0FFYH9N2K,,,https://m.media-amazon.com/images/I/61WPsjqpo-L._AC_UY218_.jpg,699,3.8,,"FREE delivery Mon, 17 Nov Or fastest delivery Today",Organic
+2025-11-15T11:27:07.349818,B0C376RWQP,,,https://m.media-amazon.com/images/I/51B4emQb6yL._AC_UY218_.jpg,229,3.5,,"FREE delivery Mon, 17 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Today",Organic
+2025-11-15T11:27:07.360920,B0DZDX3JF4,,,https://m.media-amazon.com/images/I/711NKCLZfaL._AC_UY218_.jpg,94990,4.6,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.370519,B0FPGK13JQ,,,https://m.media-amazon.com/images/I/61EAc0XaQ9L._AC_UY218_.jpg,88990,3.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.378314,B0D9FL2BHZ,,,https://m.media-amazon.com/images/I/71leDSNPrUL._AC_UY218_.jpg,299,4.2,,"FREE delivery Tue, 18 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.386428,B0DZDDV7GC,,,https://m.media-amazon.com/images/I/71CjP9jmqZL._AC_UY218_.jpg,92900,4.6,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:07.393872,B0FG2RJ9NC,,,https://m.media-amazon.com/images/I/7156bBh8W2L._AC_UY218_.jpg,40990,3.8,,"FREE delivery Mon, 17 Nov",Ad
+2025-11-15T11:27:07.401647,B0F8QFMXJ7,,,https://m.media-amazon.com/images/I/81Be1f26lVL._AC_UY218_.jpg,37990,3.7,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:27:28.013185,B0DSFQZTVW,,,https://m.media-amazon.com/images/I/710ChwsODKL._AC_UY218_.jpg,59990,3.9,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:27:28.021285,B0D2Y1BLDT,,,https://m.media-amazon.com/images/I/712WiT-wexL._AC_UY218_.jpg,55990,3.7,,Save extra with No Cost EMI Save extra with No Cost EMI,Ad
+2025-11-15T11:27:28.027787,B0CWS3V8QN,,,https://m.media-amazon.com/images/I/61i05gGBl3L._AC_UY218_.jpg,999,4.2,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:28.034292,B0BTNT8X6K,,,https://m.media-amazon.com/images/I/61QxfC9mAGL._AC_UY218_.jpg,289,4.1,,"FREE delivery Mon, 17 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:28.041635,B0C6KF5KX7,,,https://m.media-amazon.com/images/I/71VXsHjY2mL._AC_UY218_.jpg,2401,4.4,,"FREE delivery Mon, 17 Nov Or fastest delivery Today",Organic
+2025-11-15T11:27:28.047359,B0BG8LZNYL,,,https://m.media-amazon.com/images/I/51hZtBRUFBL._AC_UY218_.jpg,552,4.3,,"FREE delivery Mon, 17 Nov Or fastest delivery Today",Organic
+2025-11-15T11:27:28.053166,B0BSR2N5W9,,,https://m.media-amazon.com/images/I/512kJc9mROL._AC_UY218_.jpg,89,4.4,,"FREE delivery Mon, 17 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Today",Organic
+2025-11-15T11:27:28.059977,B0D7Z944C7,,,https://m.media-amazon.com/images/I/61ZejdSL77L._AC_UY218_.jpg,197,4.3,,"FREE delivery Mon, 17 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Today",Organic
+2025-11-15T11:27:28.067181,B0BSLRB8NJ,,,https://m.media-amazon.com/images/I/71CFc-fYMBL._AC_UY218_.jpg,149,4.2,,"FREE delivery Mon, 17 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Today",Organic
+2025-11-15T11:27:28.073186,B0F79XJHF3,,,https://m.media-amazon.com/images/I/61DfXsuyIKL._AC_UY218_.jpg,199,4.1,,"FREE delivery Mon, 17 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Today",Organic
+2025-11-15T11:27:28.082207,B0DZDDV7GC,,,https://m.media-amazon.com/images/I/71CjP9jmqZL._AC_UY218_.jpg,92900,4.6,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:27:28.091556,B0FJFTD1X6,,,https://m.media-amazon.com/images/I/71e5e82cbJL._AC_UY218_.jpg,71490,3.8,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
+2025-11-15T11:27:28.097496,B0D926JN5N,,,https://m.media-amazon.com/images/I/51gCpv7DO4L._AC_UY218_.jpg,113990,4.3,,Flat INR 5000 Off on ALL BanksCards Flat INR 5000 Off on ALL BanksCards,Organic
+2025-11-15T11:27:28.103426,B0D3B5269P,,,https://m.media-amazon.com/images/I/615arbErX4L._AC_UY218_.jpg,799,4.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:28.110102,B0BMVM18R8,,,https://m.media-amazon.com/images/I/71zFrQvHTOL._AC_UY218_.jpg,366,3.8,,Buy 3 get 3% Buy 4 get 4% Buy 5 get 5% Off,Organic
+2025-11-15T11:27:28.115861,B08QJJCY2Q,,,https://m.media-amazon.com/images/I/81ha67yYQuL._AC_UY218_.jpg,89,4.3,,"FREE delivery Mon, 17 Nov on ₹499 of items fulfilled by Amazon Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:28.122052,B0CYY2NND8,,,https://m.media-amazon.com/images/I/71ToIGzzgiL._AC_UY218_.jpg,1299,3.8,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:28.128361,B01NBX5RSB,,,https://m.media-amazon.com/images/I/511j2WbciNL._AC_UY218_.jpg,1162,4.3,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:28.135141,B0B1M6XJBJ,,,https://m.media-amazon.com/images/I/61mBXtH1v8L._AC_UY218_.jpg,37990,3.8,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Organic
+2025-11-15T11:27:28.140379,B0D18192T2,,,https://m.media-amazon.com/images/I/41xAn0iwc6L._AC_UY218_.jpg,599,4.1,,"FREE delivery Mon, 17 Nov Or fastest delivery Today",Organic
+2025-11-15T11:27:28.146996,B0FG2RJ9NC,,,https://m.media-amazon.com/images/I/7156bBh8W2L._AC_UY218_.jpg,40990,3.8,,"FREE delivery Mon, 17 Nov",Ad
+2025-11-15T11:27:28.154649,B0F637DPFW,,,https://m.media-amazon.com/images/I/71Q6JmLZE7L._AC_UY218_.jpg,55990,4.0,,"FREE delivery Mon, 17 Nov Or fastest delivery Tomorrow, 16 Nov",Ad
