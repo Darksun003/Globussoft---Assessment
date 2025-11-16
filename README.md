@@ -47,23 +47,21 @@ Task 1/
 │   └── amazon_laptops_<timestamp>.csv
 └── debug_html/
 ```
-------------------------------
-🧩 Task 2 – Face Verification
-------------------------------
+---------------------------------------------------------------------
+🧩 Task 2 – Face Authentication — Task 2 (FastAPI + facenet-pytorch)
+---------------------------------------------------------------------
 📌 Objective
 Build a face verification model and expose it via a FastAPI REST API.
 This system compares two images and determines whether they belong to the same person.
 
 🚀 Features -Techstack
 Python 3.11.0 [Strictly Recommended] 
-InsightFace face detection + embedding (state-of-the-art)
-ONNX Runtime for fast inference (CPU/GPU supported)
-OpenCV for image decoding (no Pillow required)
-Cosine similarity-based verification
-FastAPI service with interactive Swagger UI (/docs)
-##Optional gallery pipeline:
-Build mean embeddings per identity (gallery_insightface.npz)
-Identify an unknown face against the gallery
+TCNN face detection (facenet-pytorch)
+InceptionResnetV1 (pretrained on VGGFace2) for face embeddings
+Cosine-similarity based verification
+FastAPI service: POST /verify accepts two images and returns JSON
+Train script to build a gallery of mean embeddings per identity (saved as gallery_embeddings.npz)
+Test script to verify pairs and query gallery
 
 📦 Requirements
 Install all dependencies:
