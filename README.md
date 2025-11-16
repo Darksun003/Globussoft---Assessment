@@ -3,7 +3,9 @@
 👨‍💻 Author: GV Jayanth
 
 This repository contains two complete Data & Machine Learning Engineering tasks:
+
 🔹 Task 1 – Amazon Laptop Web Scraper
+
 🔹 Task 2 – Face Authentication (FastAPI + facenet-pytorch / InsightFace)
 
 ----------------------------------------------
