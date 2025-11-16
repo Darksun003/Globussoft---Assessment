@@ -24,7 +24,7 @@ Ad / Organic Result
 🛠️ Technologies Used
 | Tool                     | Purpose             |
 | ------------------------ | ------------------- |
-| Python 3.x               | Programming         |
+| Python 3.x               | Programming         | 
 | Selenium                 | Browser automation  |
 | ChromeDriver Manager     | Driver handling     |
 | BeautifulSoup (optional) | HTML parsing        |
@@ -47,15 +47,15 @@ Task 1/
 │   └── amazon_laptops_<timestamp>.csv
 └── debug_html/
 ```
----------------------------------------------------
-🧩 Task 2 – Deep Learning Face Verification API
----------------------------------------------------
+------------------------------
+🧩 Task 2 – Face Verification
+------------------------------
 📌 Objective
 Build a face verification model and expose it via a FastAPI REST API.
 This system compares two images and determines whether they belong to the same person.
 
-🚀 Features
-
+🚀 Features -Techstack
+Python 3.11.0 [Strictly Recommended] 
 InsightFace face detection + embedding (state-of-the-art)
 ONNX Runtime for fast inference (CPU/GPU supported)
 OpenCV for image decoding (no Pillow required)
